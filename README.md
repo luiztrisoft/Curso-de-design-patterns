@@ -1,2 +1,11 @@
-# Curso-de-design-patterns
-Material do meu curso online voltado para o ensino de padrões de projeto utilizando Java como linguagem de programação.
+# Padrões apresentados no curso
+Abstract Factory
+Adapter
+Builder
+Decorator
+Facade
+Factory Method
+MVC
+Singleton
+State
+Strategy
